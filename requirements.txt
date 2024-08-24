@@ -1,0 +1,19 @@
+# Python version: 3.11.0 
+
+# Data manipulation and analysis
+numpy==1.24.3
+pandas==2.0.2
+scipy==1.10.1
+
+# Data visualization
+matplotlib==3.7.1
+seaborn==0.12.2
+
+# Jupyter notebook
+jupyter==1.0.0
+jupyterlab==4.0.2
+
+# Version control integration for Jupyter notebooks? 
+# Was reading about this earlier, something we may want to look into - 
+# designed to handle version control for Jupyter notebooks
+# nbdime==3.2.1
