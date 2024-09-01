@@ -1,4 +1,6 @@
 # Virtual environments
+# AustinM Virtual Environment
+am_nba_stats_env/ 
 
-#AustinM Virtual Environment
-am_nba_stats_env/
+# Remove old 'notebooks' folder and old 'data_exploration.ipynb' 
+old_notebooks/
