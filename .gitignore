@@ -3,4 +3,7 @@
 am_nba_stats_env/ 
 
 # Remove old 'notebooks' folder and old 'data_exploration.ipynb' 
-old_notebooks/
+old_notebooks/ 
+
+# Scratch sheet for working on functions 
+scratch_function_work.txt
