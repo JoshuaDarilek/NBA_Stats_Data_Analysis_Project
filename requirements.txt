@@ -13,10 +13,3 @@ seaborn==0.12.2
 jupyter==1.0.0
 jupyterlab==3.6.7
 
-# Code formatting and linting
-black==23.11.0
-
-# Version control integration for Jupyter notebooks
-# Was reading about this earlier, something we may want to look into -
-# designed to handle version control for Jupyter notebooks
-# nbdime==3.2.1
