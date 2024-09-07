@@ -1,9 +1,15 @@
 # Virtual environments
 # AustinM Virtual Environment
-am_nba_stats_env/ 
+am_nba_stats_env/  
+
+# Removing .ipynb checkpoints folder 
+.ipynb_checkpoints/
 
 # Remove old 'notebooks' folder and old 'data_exploration.ipynb' 
 old_notebooks/ 
 
 # Scratch sheet for working on functions 
-scratch_function_work.txt
+scratch_function_work.txt 
+
+# black formatter autosave in setting 
+.vscode/
