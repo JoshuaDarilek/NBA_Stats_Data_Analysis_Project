@@ -50,6 +50,7 @@ To run this project, you'll need Python 3.11.0 or later, along with the followin
 - matplotlib
 - seaborn
 - jupyter
+- plotly
 
 You can install the required packages using the `requirements.txt` file:
 
